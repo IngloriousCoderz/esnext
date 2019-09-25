@@ -12,7 +12,7 @@ const proceduralSumSquareOfOdds = (...nums) => {
 }
 
 const isOdd = num => num % 2 !== 0
-const square = num => num * num
+const square = num => num ** 2
 const sum = (a, b) => a + b
 
 const declarativeSumSquareOfOdds = (...nums) =>
