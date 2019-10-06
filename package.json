@@ -14,5 +14,6 @@
   "scripts": {
     "test": "mocha",
     "test:watch": "mocha -w"
-  }
+  },
+  "dependencies": {}
 }
